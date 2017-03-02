@@ -1,6 +1,5 @@
 Pizza
 Wings
-Salad
 Steak
+Salad
 Icecream
-
